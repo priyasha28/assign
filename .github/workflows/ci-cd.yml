@@ -31,5 +31,5 @@ jobs:
         env:
           AWS_S3_BUCKET: ${{ secrets.assignment-bucket-v1 }}
           AWS_ACCESS_KEY_ID: ${{ secrets.AKIAQFLZDQQIASJAAA6S }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.IpSAJkoSYo1OLR0TWNqwEQo32VW+fQg2JR1PVE5q}}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.IpSAJkoSYo1OLR0TWNqwEQo32VW+fQg2JR1PVE5q }}
           AWS_REGION: ${{ secrets.ap-southeast-2 }}
